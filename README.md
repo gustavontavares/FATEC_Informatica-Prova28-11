@@ -7,4 +7,4 @@ Nesta etapa da prova foram atribuidas as tarefas:
 
 # Dashboard
 
-<img src="Prova - Info.jpg" width="70%" height="70%">
+<img src="Prova - Info (28.11).jpg" width="70%" height="70%">
